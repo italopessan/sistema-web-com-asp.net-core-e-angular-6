@@ -1,0 +1,19 @@
+<nav class="navbar navbar-expand-lg navbar-light" style="background-color: #e3f2fd;">
+  <div class="collapse navbar-collapse" id="navbarSupportedContent">
+    <ul class="navbar-nav mr-auto">
+      <li class="nav-item">
+        <a class="nav-link" [routerLink]="['/']">Home</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" [routerLink]="['/cursos']">Cursos</a>
+      </li>
+    </ul>
+    <div class="form-inline my-2 my-lg-0">
+      <button class="btn btn-outline-success my-2 my-sm-0" [routerLink]="['/novo']" type="button">Novo Curso</button>
+    </div>
+  </div>
+</nav>
+<div class="container" style="padding-top: 20px">
+  <router-outlet></router-outlet>
+</div>
+

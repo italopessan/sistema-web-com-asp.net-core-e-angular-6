@@ -1,0 +1,7 @@
+tbdRemote/remote-front/
+node_modules/
+.vscode/
+tbdRemote/aFile.txt
+tbdRemote/package-lock.json
+/tbdRemote/.vs/slnx.sqlite
+/tbdRemote/.vs/ProjectSettings.json
