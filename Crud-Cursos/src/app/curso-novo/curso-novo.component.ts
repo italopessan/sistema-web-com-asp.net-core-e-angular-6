@@ -49,7 +49,7 @@ export class CursoNovoComponent implements OnInit {
     this.submitted = true;
     if (this.form.valid) {
       this.service.create(this.form.value).subscribe(sucess => {
-        //this.modal.showAlertSucess('Curso criado com sucesso');
+        console.log('sucesso')
         this.location.back();
       },
         error => console.log('Erro ao criar curso'));

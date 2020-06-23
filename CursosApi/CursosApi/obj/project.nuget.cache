@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "RbZ0eO2Fv79VBSN7jflaI8D/vKxrxsR4kWzlDEQtrEBosolT7GudhXJLfxXo457sJMZISa7SDqFt9W/llNFrMg==",
+  "dgSpecHash": "mycDycvXhrE+vucAsy95NnKPX6IH+PruuQf875oI31QwQV3v+0+EGJfTweDvC6scAdFL2Xk9i9sSYJ/BzlHMzQ==",
   "success": true,
   "projectFilePath": "D:\\Github\\ListCursosApp\\CursosApi\\CursosApi\\CursosApi.csproj",
   "expectedPackageFiles": [
@@ -22,6 +22,7 @@
     "C:\\Users\\italo\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.1\\microsoft.extensions.logging.abstractions.3.1.1.nupkg.sha512",
     "C:\\Users\\italo\\.nuget\\packages\\microsoft.extensions.options\\3.1.1\\microsoft.extensions.options.3.1.1.nupkg.sha512",
     "C:\\Users\\italo\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.1\\microsoft.extensions.primitives.3.1.1.nupkg.sha512",
+    "C:\\Users\\italo\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512",
     "C:\\Users\\italo\\.nuget\\packages\\mysqlconnector\\0.61.0\\mysqlconnector.0.61.0.nupkg.sha512",
     "C:\\Users\\italo\\.nuget\\packages\\newtonsoft.json\\11.0.2\\newtonsoft.json.11.0.2.nupkg.sha512",
     "C:\\Users\\italo\\.nuget\\packages\\pomelo.entityframeworkcore.mysql\\3.1.1\\pomelo.entityframeworkcore.mysql.3.1.1.nupkg.sha512",

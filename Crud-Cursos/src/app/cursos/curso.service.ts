@@ -1,7 +1,12 @@
+
 import { Curso } from './curso';
 import { Injectable } from '@angular/core';
 import { HttpClient } from '@angular/common/http';
 import { take } from 'rxjs/operators';
+
+
+
+
 
 @Injectable({
   providedIn: 'root'
@@ -10,10 +15,13 @@ export class CursoService {
 
   constructor(private http: HttpClient) { }
 
-  private readonly API = 'http://localhost:5254/api/cursos'
+  private readonly API = 'http://localhost:52543/api'
+
+  
+ 
 
   list() {
-    return this.http.get<Curso[]>(this.API);
+    return this.http.get<Curso[]>(`${this.API}/cursos`);
   }
 
   loadById(id) {
@@ -21,7 +29,7 @@ export class CursoService {
   }
 
   create(curso) {
-    return this.http.post(this.API, curso).pipe(take(1));
+    return this.http.post(`${this.API}`, curso).pipe(take(1));
   }
 
   update(curso) {
