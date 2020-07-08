@@ -73,8 +73,6 @@ D:\Github\ListCursosApp\CursosApi\CursosApi\bin\Debug\netcoreapp3.1\Pomelo.JsonO
 D:\Github\ListCursosApp\CursosApi\CursosApi\obj\Debug\netcoreapp3.1\CursosApi.csprojAssemblyReference.cache
 D:\Github\ListCursosApp\CursosApi\CursosApi\obj\Debug\netcoreapp3.1\CursosApi.AssemblyInfoInputs.cache
 D:\Github\ListCursosApp\CursosApi\CursosApi\obj\Debug\netcoreapp3.1\CursosApi.AssemblyInfo.cs
-D:\Github\ListCursosApp\CursosApi\CursosApi\obj\Debug\netcoreapp3.1\CursosApi.csproj.CoreCompileInputs.cache
-D:\Github\ListCursosApp\CursosApi\CursosApi\obj\Debug\netcoreapp3.1\CursosApi.MvcApplicationPartsAssemblyInfo.cache
 D:\Github\ListCursosApp\CursosApi\CursosApi\obj\Debug\netcoreapp3.1\CursosApi.RazorTargetAssemblyInfo.cache
 D:\Github\ListCursosApp\CursosApi\CursosApi\obj\Debug\netcoreapp3.1\CursosApi.csproj.CopyComplete
 D:\Github\ListCursosApp\CursosApi\CursosApi\obj\Debug\netcoreapp3.1\staticwebassets\CursosApi.StaticWebAssets.Manifest.cache
@@ -82,3 +80,10 @@ D:\Github\ListCursosApp\CursosApi\CursosApi\obj\Debug\netcoreapp3.1\staticwebass
 D:\Github\ListCursosApp\CursosApi\CursosApi\obj\Debug\netcoreapp3.1\CursosApi.dll
 D:\Github\ListCursosApp\CursosApi\CursosApi\obj\Debug\netcoreapp3.1\CursosApi.pdb
 D:\Github\ListCursosApp\CursosApi\CursosApi\obj\Debug\netcoreapp3.1\CursosApi.genruntimeconfig.cache
+D:\Github\ListCursosApp\CursosApi\CursosApi\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\Github\ListCursosApp\CursosApi\CursosApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\Github\ListCursosApp\CursosApi\CursosApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Github\ListCursosApp\CursosApi\CursosApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Github\ListCursosApp\CursosApi\CursosApi\obj\Debug\netcoreapp3.1\CursosApi.csproj.CoreCompileInputs.cache
+D:\Github\ListCursosApp\CursosApi\CursosApi\obj\Debug\netcoreapp3.1\CursosApi.MvcApplicationPartsAssemblyInfo.cs
+D:\Github\ListCursosApp\CursosApi\CursosApi\obj\Debug\netcoreapp3.1\CursosApi.MvcApplicationPartsAssemblyInfo.cache
